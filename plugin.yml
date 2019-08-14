@@ -1,0 +1,20 @@
+name: SimpleKit
+version: 1.0
+api: [3.0.0]
+main: AkyaMC\Kit
+description: Simple kit pour serveur faction
+author: AkyaMC
+
+commands:
+  kit:
+    description: §c/kit list
+permissions:
+  kit.base:
+    description: accès au kit base
+    default: op
+  kit.legend:
+    description: accès au kit legend
+    default: op
+  kit.heros:
+    description: accès au kit heros
+    default: op
