@@ -11,7 +11,6 @@ use pocketmine\command\Command;
 use pocketmine\utils\Config;
 use pocketmine\utils\Utils;
 use pocketmine\plugin\PluginBase as Plugins;
-use DevJblus\Loader;
 
 use pocketmine\item\Item;
 
